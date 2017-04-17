@@ -1,6 +1,6 @@
 const gulp = require('gulp')
 var replace = require('gulp-replace');
-let conf_id = "functional-conf-2016";
+let conf_id = "agile-india-2017";
 const fs = require('fs')
 const Promise = require("bluebird")
 
