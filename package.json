@@ -1,0 +1,26 @@
+{
+  "name": "cors-host",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rtalwar26/cors-host.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rtalwar26/cors-host/issues"
+  },
+  "homepage": "https://github.com/rtalwar26/cors-host#readme",
+  "dependencies": {
+    "bluebird": "^3.5.0",
+    "gulp": "^3.9.1",
+    "gulp-replace": "^0.5.4",
+    "lasso": "^2.11.8",
+    "lasso-marko": "^2.3.0"
+  }
+}
